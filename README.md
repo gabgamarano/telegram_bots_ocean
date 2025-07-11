@@ -1,4 +1,4 @@
-# 🤖✨ Chatbot Telegram
+# 🤖 Chatbot Telegram
 
 Dois projetos de bots para Telegram desenvolvidos em Python/Jupyter Notebook com abordagens diferentes:
 
